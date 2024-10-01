@@ -96,6 +96,21 @@ html{
     margin: 34px;
     display: flex;
 }
+#services .box{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 3px 6px;
+    border-radius: 28px;
+    background-color: #f2f2f2;
+}
+#services .box img{
+    height: 160px;
+    margin: auto;
+    display: block;
+}
+#services .box p{
+    font-family: 'Bree Serif', serif;
+}
 
 /* Client Section */
 #client-section{
